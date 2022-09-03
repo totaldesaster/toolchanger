@@ -1,0 +1,26 @@
+Toolhead:
+Coupler Ball		https://de.aliexpress.com/item/32646556334.html?spm=a2g0o.order_list.0.0.21ef5c5fhdG5Fl&gatewayAdapt=glo2deu
+KW11-3Z			https://de.aliexpress.com/item/1635599799.html?spm=a2g0o.order_list.0.0.21ef5c5fhdG5Fl&gatewayAdapt=glo2deu
+28BYJ-48		https://de.aliexpress.com/item/33061950792.html
+S-10-1.5-N52N		https://www.supermagnete.de/eng/disc-magnets-neodymium/disc-magnet-10mm-1.5mm_S-10-1.5-N52N
+419-10-206-00-006000	https://www.mouser.com/ProductDetail/Mill-Max/419-10-206-00-006000?qs=493kPxzlxfJDf1Hr1AIoOA%3D%3D
+Bolts			Your local hardware store
+
+
+Tool:
+Trianglelab Arethusa	https://de.aliexpress.com/item/32868524586.html?gatewayAdapt=glo2deu
+827-22-006-10-001101	https://www.mouser.com/ProductDetail/Mill-Max/827-22-006-10-001101?qs=aEjzgrpC3nabZ8NuQ8Fa5g%3D%3D
+S-10-1.5-N52N		https://www.supermagnete.de/eng/disc-magnets-neodymium/disc-magnet-10mm-1.5mm_S-10-1.5-N52N
+5mm magnet & L profile	Doesn't matter too much - random bits I had laying around...
+Bolts			Your local hardware store
+antclabs BLTouch	Your local 3D printer shop
+
+
+Dock:
+419-10-206-00-006000	https://www.mouser.com/ProductDetail/Mill-Max/419-10-206-00-006000?qs=493kPxzlxfJDf1Hr1AIoOA%3D%3D
+Bolts & Dowel pins	Your local hardware store
+5mm magnet		Doesn't matter too much - random bits I had laying around...
+
+
+Printed parts:
+I'd recommend printing all parts with at least 4 walls and 25% Infill. I used Extrudr PLA NX2 for mine, any decent quality filament should work.
