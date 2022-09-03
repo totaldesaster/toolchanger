@@ -18,7 +18,7 @@ The 28BYJ-48 stepper motor can be driven with a normal stepstick with some minor
 # Version 1 information
 
 The first prototype uses pogo pins to electrically connect the tool. These have proven to be more trouble than they're worth and I will replace them with a manual quick disconnect or plug on the machine frame in version 2. If you want to build yourself a toolchanger right now, I would recommend wiring the tools like normal bowden hotends and skipping the pins.
-This currently means you lose some thermistor protection features since you have to fool the controller into thinking there's still a thermistor on the head when there is no tool. This is accomplished by the microswitch connecting a resistor in parallel to the thermistor when the tool is disconnected. Make sure you enable the VERIFY_HEATER feature in Klipper, or the equivalent in your firmware to protect against improperly connected tools! This also means you are currently limited to using the same thermistor type on all tools. This will change with V2.
+Using the pins currently means you lose some thermistor protection features since you have to fool the controller into thinking there's still a thermistor on the head when there is no tool. This is accomplished by the microswitch connecting a resistor in parallel to the thermistor when the tool is disconnected. Make sure you enable the VERIFY_HEATER feature in Klipper, or the equivalent in your firmware to protect against improperly connected tools! This also means you are currently limited to using the same thermistor type on all tools. This will change with V2.
 
 # FAQs
 
