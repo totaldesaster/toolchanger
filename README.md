@@ -1,4 +1,4 @@
-# Open-Source Magnetic 3D Printer ToolChanger Project
+# Low-Cost, Open Source, Toolchanging mechanism for 3D printers
 
 Magnetic tool changer project, inspired by E3D and Jubilee tool changing printers and designed for low cost and wide compatibility. My goal is to make toolchanging accessible without owning four figure machines.
 
