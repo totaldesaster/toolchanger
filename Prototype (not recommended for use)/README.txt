@@ -1,0 +1,3 @@
+This version uses pogo pins on the toolhead to electrically connect the tool. These have proven to be more trouble than they’re worth. Do not use this version unless you intend to develop the idea further.
+
+I had to disable thermistor protection features (disabled VERIFY_HEATER in Klipper and set MAXTEMP ridiculously high) to fool the firmware into accepting the tool change. I accomplished this by the microswitch connecting a resistor in parallel to the thermistor when the tool is disconnected. This version also limits you to using the same thermistor type on all tools (or you need to accept that tools report incorrect temperatures). This could be improved if you are more versed in firmware development than I am.
