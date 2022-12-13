@@ -1,0 +1,2920 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Standard Version="23">
+
+  <!--Created by Autodesk Inventor Version 19.0 Internal-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (ANSI-mm) &#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ANSI-mm)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1031" String="ANSICHT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="POHLED \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="VIEW \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046 3082" String="VISTA \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="VISTA \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1036" String="VUE \Y0;-\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1045" String="WIDOK \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; NÉZET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВИД \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028" String="視圖 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="2052" String="视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="뷰 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1036" String="COUPE \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="PRZEKRÓJ \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1031" String="QUERSCHNITT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="3082" String="SECCIÓN \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1033 1041" String="SECTION \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1040" String="SEZIONE \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1046" String="SEÇÃO \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; METSZET&#xA;M \Y1;"/>
+      <Item Language="1029" String="ŘEZ \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1049" String="СЕЧЕНИЕ \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="剖视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="剖面 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="단면도 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1036" String="DETAIL  \Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1031" String="DETAIL  \Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="DETAIL  \Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="DETAIL  \Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046" String="DETALHE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="3082" String="DETALLE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="DETTAGLIO \Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1045" String="SZCZEGÓŁ  \Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0; RÉSZLET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВЫНОСНОЙ ЭЛЕМЕНТ   \Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="局部视图  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="詳圖  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="상세 뷰  \Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ANSI)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (ANSI)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ANSI)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Fraction (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm [in] (ANSI)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ANSI)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ANSI)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table - mm (ANSI)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table - mm (ANSI)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (ANSI-mm)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (ANSI)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (ANSI-mm)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 / 4"/>
+      <Item Val="1 / 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (ANSI-mm)</Name>
+    <Name Description="" Language="1029">Výchozí norma (ANSI-mm)</Name>
+    <Name Description="" Language="1031">Standardnorm (ANSI-mm)</Name>
+    <Name Description="" Language="1033">Default Standard (ANSI-mm)</Name>
+    <Name Description="" Language="1036">Norme par défaut (ANSI-mm)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (ANSI-mm)</Name>
+    <Name Description="" Language="1040">Norma di default (ANSI-mm)</Name>
+    <Name Description="" Language="1041">Default Standard (ANSI-mm)</Name>
+    <Name Description="" Language="1042">기본 표준 (ANSI-mm)</Name>
+    <Name Description="" Language="1045">Norma domyślna (ANSI-mm)</Name>
+    <Name Description="" Language="1046">Norma padrão (ANSI-mm)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (ANSI-мм)</Name>
+    <Name Description="" Language="2052">默认标准 (ANSI-mm)</Name>
+    <Name Description="" Language="3082">Norma por defecto (ANSI-mm)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (ANSI) &#xA;" LinearUnit="3" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ANSI)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1031" String="ANSICHT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="POHLED \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="VIEW \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046 3082" String="VISTA \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="VISTA \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1036" String="VUE \Y0;-\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1045" String="WIDOK \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; NÉZET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВИД \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028" String="視圖 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="2052" String="视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="뷰 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1036" String="COUPE \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="PRZEKRÓJ \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1031" String="QUERSCHNITT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="3082" String="SECCIÓN \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1033 1041" String="SECTION \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1040" String="SEZIONE \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1046" String="SEÇÃO \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; METSZET&#xA;M \Y1;"/>
+      <Item Language="1029" String="ŘEZ \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1049" String="СЕЧЕНИЕ \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="剖视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="剖面 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="단면도 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1036" String="DETAIL  \Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1031" String="DETAIL  \Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="DETAIL  \Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="DETAIL  \Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046" String="DETALHE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="3082" String="DETALLE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="DETTAGLIO \Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1045" String="SZCZEGÓŁ  \Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0; RÉSZLET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВЫНОСНОЙ ЭЛЕМЕНТ   \Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="局部视图  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="詳圖  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="상세 뷰  \Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.00254"/>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.03556"/>
+      <Item Val="0.0508"/>
+      <Item Val="0.07112"/>
+      <Item Val="0.09906"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.20066"/>
+      <Item Val="0.2794"/>
+      <Item Val="0.39878"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ANSI)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (ANSI)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ANSI)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Fraction (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm [in] (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Architectural (ANSI)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ANSI)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ANSI)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (ANSI)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (ANSI)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (ANSI)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (ANSI)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (ANSI)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 / 4"/>
+      <Item Val="1 / 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (ANSI)</Name>
+    <Name Description="" Language="1029">Výchozí norma (ANSI)</Name>
+    <Name Description="" Language="1031">Standardnorm (ANSI)</Name>
+    <Name Description="" Language="1033">Default Standard (ANSI)</Name>
+    <Name Description="" Language="1036">Norme par défaut (ANSI)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (ANSI)</Name>
+    <Name Description="" Language="1040">Norma di default (ANSI)</Name>
+    <Name Description="" Language="1041">Default Standard (ANSI)</Name>
+    <Name Description="" Language="1042">기본 표준 (ANSI)</Name>
+    <Name Description="" Language="1045">Norma domyślna (ANSI)</Name>
+    <Name Description="" Language="1046">Norma padrão (ANSI)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (ANSI)</Name>
+    <Name Description="" Language="2052">默认标准 (ANSI)</Name>
+    <Name Description="" Language="3082">Norma por defecto (ANSI)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (BSI) &#xA;" LinearUnit="0" Projection="1" Scale="1" ThreadEdge="1" Type="4" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (BSI)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2/>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3/>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4/>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+      <Item Val="2"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (BSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (BSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (BSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (BSI)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (BSI)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (BSI)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (BSI)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ISO)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (BSI)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (BSI)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (BSI)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (BSI)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (BSI)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (BSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2 (BSI)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ISO)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ISO)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ISO)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (BSI)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (BSI)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (BSI)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (BSI)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (BSI)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 4"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (BSI)</Name>
+    <Name Description="" Language="1029">Výchozí norma (BSI)</Name>
+    <Name Description="" Language="1031">Standardnorm (BSI)</Name>
+    <Name Description="" Language="1033">Default Standard (BSI)</Name>
+    <Name Description="" Language="1036">Norme par défaut (BSI)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (BSI)</Name>
+    <Name Description="" Language="1040">Norma di default (BSI)</Name>
+    <Name Description="" Language="1041">Default Standard (BSI)</Name>
+    <Name Description="" Language="1042">기본 표준 (BSI)</Name>
+    <Name Description="" Language="1045">Norma domyślna (BSI)</Name>
+    <Name Description="" Language="1046">Norma padrão (BSI)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (BSI)</Name>
+    <Name Description="" Language="2052">默认标准 (BSI)</Name>
+    <Name Description="" Language="3082">Norma por defecto (BSI)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (DIN) &#xA;" LinearUnit="0" Projection="1" Scale="1" ThreadEdge="1" Type="2" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (DIN)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2/>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3/>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4/>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+      <Item Val="2"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ISO)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (DIN)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (DIN)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (DIN)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ISO)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (DIN)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (DIN)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (DIN)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (DIN)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (DIN)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2a (DIN)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2b (DIN)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (DIN)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (DIN)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (DIN)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (DIN)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (DIN-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ISO)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (DIN)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (DIN)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (DIN)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (DIN)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (DIN)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 100"/>
+      <Item Val="1 : 50"/>
+      <Item Val="1 : 20"/>
+      <Item Val="1 : 10"/>
+      <Item Val="1 : 5"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+      <Item Val="20 : 1"/>
+      <Item Val="50 : 1"/>
+      <Item Val="100 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (DIN)</Name>
+    <Name Description="" Language="1029">Výchozí norma (DIN)</Name>
+    <Name Description="" Language="1031">Standardnorm (DIN)</Name>
+    <Name Description="" Language="1033">Default Standard (DIN)</Name>
+    <Name Description="" Language="1036">Norme par défaut (DIN)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (DIN)</Name>
+    <Name Description="" Language="1040">Norma di default (DIN)</Name>
+    <Name Description="" Language="1041">Default Standard (DIN)</Name>
+    <Name Description="" Language="1042">기본 표준 (DIN)</Name>
+    <Name Description="" Language="1045">Norma domyślna (DIN)</Name>
+    <Name Description="" Language="1046">Norma padrão (DIN)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (DIN)</Name>
+    <Name Description="" Language="2052">默认标准 (DIN)</Name>
+    <Name Description="" Language="3082">Norma por defecto (DIN)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (Fabrication-mm)&#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ANSI-mm)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1031" String="ANSICHT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="POHLED \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="VIEW \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046 3082" String="VISTA \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="VISTA \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1036" String="VUE \Y0;-\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1045" String="WIDOK \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; NÉZET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВИД \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028" String="視圖 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="2052" String="视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="뷰 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1036" String="COUPE \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="PRZEKRÓJ \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1031" String="QUERSCHNITT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="3082" String="SECCIÓN \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1033 1041" String="SECTION \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1040" String="SEZIONE \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1046" String="SEÇÃO \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; METSZET&#xA;M \Y1;"/>
+      <Item Language="1029" String="ŘEZ \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1049" String="СЕЧЕНИЕ \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="剖视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="剖面 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="단면도 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1036" String="DETAIL  \Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1031" String="DETAIL  \Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="DETAIL  \Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="DETAIL  \Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046" String="DETALHE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="3082" String="DETALLE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="DETTAGLIO \Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1045" String="SZCZEGÓŁ  \Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0; RÉSZLET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВЫНОСНОЙ ЭЛЕМЕНТ   \Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="局部视图  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="詳圖  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="상세 뷰  \Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ANSI)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (ANSI)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ANSI)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Fraction (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm [in] (ANSI)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ANSI)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ANSI)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table - mm (ANSI)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table - mm (ANSI)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (ANSI-mm)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (ANSI)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (ANSI-mm)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 1536"/>
+      <Item Val="1 : 768"/>
+      <Item Val="1 : 384"/>
+      <Item Val="1 : 192"/>
+      <Item Val="1 : 96"/>
+      <Item Val="1 : 64"/>
+      <Item Val="1 : 48"/>
+      <Item Val="1 : 32"/>
+      <Item Val="1 : 24"/>
+      <Item Val="1 : 16"/>
+      <Item Val="1 : 12"/>
+      <Item Val="1 : 8"/>
+      <Item Val="1 : 4"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (Fabrication-mm)</Name>
+    <Name Description="" Language="1029">Výchozí norma (výroba - mm)</Name>
+    <Name Description="" Language="1031">Standardnorm (Fertigung-mm)</Name>
+    <Name Description="" Language="1033">Default Standard (Fabrication-mm)</Name>
+    <Name Description="" Language="1036">Norme par défaut (Fabrication-mm)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (gyártmány-mm)</Name>
+    <Name Description="" Language="1040">Norma di default (fabbricazione-mm)</Name>
+    <Name Description="" Language="1041">Default Standard (Fabrication-mm)</Name>
+    <Name Description="" Language="1042">기본 표준(제작-mm)</Name>
+    <Name Description="" Language="1045">Norma domyślna (produkcja - mm)</Name>
+    <Name Description="" Language="1046">Norma padrão (Fabricação-mm)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (производство-мм)</Name>
+    <Name Description="" Language="2052">默认标准 (Fabrication-mm)</Name>
+    <Name Description="" Language="3082">Norma por defecto (fabricación-mm)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (Fabrication)&#xA;" LinearUnit="3" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (Fabrication)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1031" String="ANSICHT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="POHLED \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="VIEW \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046 3082" String="VISTA \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="VISTA \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1036" String="VUE \Y0;-\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1045" String="WIDOK \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; NÉZET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВИД \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028" String="視圖 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="2052" String="视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="뷰 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1036" String="COUPE \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="PRZEKRÓJ \Y0;-\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1031" String="QUERSCHNITT \Y0;-\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="3082" String="SECCIÓN \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1033 1041" String="SECTION \Y0;-\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1040" String="SEZIONE \Y0;-\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1046" String="SEÇÃO \Y0;-\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;-\Y0; METSZET&#xA;M \Y1;"/>
+      <Item Language="1029" String="ŘEZ \Y0;-\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1049" String="СЕЧЕНИЕ \Y0;-\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="剖视图 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="剖面 \Y0;-\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="단면도 \Y0;-\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1036" String="DETAIL  \Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1031" String="DETAIL  \Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="DETAIL  \Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1033 1041" String="DETAIL  \Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1046" String="DETALHE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="3082" String="DETALLE  \Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1040" String="DETTAGLIO \Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1045" String="SZCZEGÓŁ  \Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1038" String="\Y0; RÉSZLET&#xA;M \Y1;"/>
+      <Item Language="1049" String="ВЫНОСНОЙ ЭЛЕМЕНТ   \Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="2052" String="局部视图  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1028" String="詳圖  \Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="상세 뷰  \Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1036" String="\Y0;&#xA;ECHELLE \Y1;"/>
+      <Item Language="1046 3082" String="\Y0;&#xA;ESCALA \Y1;"/>
+      <Item Language="1038" String="\Y0;&#xA;M \Y1;"/>
+      <Item Language="1031" String="\Y0;&#xA;MASSSTAB \Y1;"/>
+      <Item Language="1029" String="\Y0;&#xA;MĚŘÍTKO \Y1;"/>
+      <Item Language="1040" String="\Y0;&#xA;SCALA \Y1;"/>
+      <Item Language="1033 1041" String="\Y0;&#xA;SCALE \Y1;"/>
+      <Item Language="1045" String="\Y0;&#xA;SKALA \Y1;"/>
+      <Item Language="1049" String="\Y0;&#xA;МАСШТАБ \Y1;"/>
+      <Item Language="1028 2052" String="\Y0;&#xA;比例 \Y1;"/>
+      <Item Language="1042" String="\Y0;&#xA;축척 \Y1;"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.00254"/>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.03556"/>
+      <Item Val="0.0508"/>
+      <Item Val="0.07112"/>
+      <Item Val="0.09906"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.20066"/>
+      <Item Val="0.2794"/>
+      <Item Val="0.39878"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ANSI)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (ANSI)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ANSI)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Fraction (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm [in] (ANSI)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Architectural (ANSI)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ANSI)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ANSI)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ANSI-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ANSI)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ANSI)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (ANSI)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (ANSI)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (ANSI)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (ANSI)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (ANSI)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1/128&quot; = 1'-0&quot;"/>
+      <Item Val="1/64&quot; = 1'-0&quot;"/>
+      <Item Val="1/32&quot; = 1'-0&quot;"/>
+      <Item Val="1/16&quot; = 1'-0&quot;"/>
+      <Item Val="1/8&quot; = 1'-0&quot;"/>
+      <Item Val="3/16&quot; = 1'-0&quot;"/>
+      <Item Val="1/4&quot; = 1'-0&quot;"/>
+      <Item Val="3/8&quot; = 1'-0&quot;"/>
+      <Item Val="1/2&quot; = 1'-0&quot;"/>
+      <Item Val="3/4&quot; = 1'-0&quot;"/>
+      <Item Val="1&quot; = 1'-0&quot;"/>
+      <Item Val="1 1/2&quot; = 1'-0&quot;"/>
+      <Item Val="3&quot; = 1'-0&quot;"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (Fabrication)</Name>
+    <Name Description="" Language="1029">Výchozí norma (výroba)</Name>
+    <Name Description="" Language="1031">Standardnorm (Fertigung)</Name>
+    <Name Description="" Language="1033">Default Standard (Fabrication)</Name>
+    <Name Description="" Language="1036">Norme par défaut (Fabrication)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány  (gyártmány)</Name>
+    <Name Description="" Language="1040">Norma di default (fabbricazione)</Name>
+    <Name Description="" Language="1041">Default Standard (Fabrication)</Name>
+    <Name Description="" Language="1042">기본 표준(제작)</Name>
+    <Name Description="" Language="1045">Norma domyślna (produkcja)</Name>
+    <Name Description="" Language="1046">Norma padrão (Fabricação)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (производство)</Name>
+    <Name Description="" Language="2052">默认标准 (Fabrication)</Name>
+    <Name Description="" Language="3082">Norma por defecto (fabricación)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (GB) &#xA;" LinearUnit="0" Projection="1" Scale="1" ThreadEdge="0" Type="5" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="3" ViewLabelDisplayNumParams-1="3" ViewLabelDisplayNumParams-2="3" ViewLabelDisplayNumParams-3="3" ViewLabelDisplayNumParams-4="3" ViewLabelDisplayNumParams-5="3" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_Cat-2="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="3" ViewLabelDisplayParam-0_ID-2="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-0_Prec-2="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_Cat-2="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="3" ViewLabelDisplayParam-1_ID-2="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-1_Prec-2="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_Cat-2="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="3" ViewLabelDisplayParam-2_ID-2="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-2_Prec-2="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_Cat-2="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="3" ViewLabelDisplayParam-3_ID-2="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-3_Prec-2="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_Cat-2="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="3" ViewLabelDisplayParam-4_ID-2="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-4_Prec-2="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_Cat-2="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="3" ViewLabelDisplayParam-5_ID-2="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelDisplayParam-5_Prec-2="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (GB)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;&#xA;\Y1;&#xA;\Y2;"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (GB)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (GB)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (GB)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (GB)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (GB)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (GB)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (GB)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ISO)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (GB)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (GB)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (GB)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (GB)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (GB)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (GB)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Type 1 (GB)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ISO)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ISO)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO-AIP)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (GB)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ISO)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (GB)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (GB)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (GB)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (GB)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (GB)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 4"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (GB)</Name>
+    <Name Description="" Language="1029">Výchozí norma (GB)</Name>
+    <Name Description="" Language="1031">Standardnorm (GB)</Name>
+    <Name Description="" Language="1033">Default Standard (GB)</Name>
+    <Name Description="" Language="1036">Norme par défaut (GB)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (GB)</Name>
+    <Name Description="" Language="1040">Norma di default (GB)</Name>
+    <Name Description="" Language="1041">Default Standard (GB)</Name>
+    <Name Description="" Language="1042">기본 표준 (GB)</Name>
+    <Name Description="" Language="1045">Norma domyślna (GB)</Name>
+    <Name Description="" Language="1046">Norma padrão (GB)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (GB)</Name>
+    <Name Description="" Language="2052">默认标准 (GB)</Name>
+    <Name Description="" Language="3082">Norma por defecto (GB)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (GOST)&#xA;" LinearUnit="0" Projection="1" Scale="1" ThreadEdge="1" Type="6" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (GOST)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.305"/>
+      <Item Val="0.317"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.525"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (GOST)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (GOST)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (GOST)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (GOST)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (GOST)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (GOST)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (GOST)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (GOST)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (GOST)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (GOST)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (GOST)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (GOST)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (GOST)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (GOST)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (GOST)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Multi-line (GOST)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Diameter (GOST)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Regular Text (GOST)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Enlarged Text (GOST)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Condensed Text (GOST)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Alternative Text (GOST)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (GOST)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (GOST-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Thread Line (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (GOST)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (GOST)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (GOST)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (GOST)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (GOST)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (GOST)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (GOST)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 4"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (GOST)</Name>
+    <Name Description="" Language="1029">Výchozí norma (GOST)</Name>
+    <Name Description="" Language="1031">Standardnorm (GOST)</Name>
+    <Name Description="" Language="1033">Default Standard (GOST)</Name>
+    <Name Description="" Language="1036">Norme par défaut (GOST)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (GOST)</Name>
+    <Name Description="" Language="1040">Norma di default (GOST)</Name>
+    <Name Description="" Language="1041">Default Standard (GOST)</Name>
+    <Name Description="" Language="1042">기본 표준 (GOST)</Name>
+    <Name Description="" Language="1045">Norma domyślna (GOST)</Name>
+    <Name Description="" Language="1046">Norma padrão (GOST)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (ГОСТ)</Name>
+    <Name Description="" Language="2052">默认标准 (GOST)</Name>
+    <Name Description="" Language="3082">Norma por defecto (GOST)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (ISO) &#xA;" LinearUnit="0" Projection="1" Scale="1" ThreadEdge="1" Type="1" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ISO)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033 1041" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2/>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3/>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4/>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="CROQUIS"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033 1041" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+      <Item Val="0.28"/>
+      <Item Val="0.4"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+      <Item Val="2"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ISO)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (ISO)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ISO)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ISO)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (ISO)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ISO)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ISO)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ISO)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (ISO)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ISO)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 1b (ISO)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2a (ISO)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2b (ISO)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm [in] (ISO)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (ISO)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ISO)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (ISO)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (ISO-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ISO)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (ISO)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (ISO)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (ISO)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (ISO)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (ISO)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 4"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (ISO)</Name>
+    <Name Description="" Language="1029">Výchozí norma (ISO)</Name>
+    <Name Description="" Language="1031">Standardnorm (ISO)</Name>
+    <Name Description="" Language="1033">Default Standard (ISO)</Name>
+    <Name Description="" Language="1036">Norme par défaut (ISO)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (ISO)</Name>
+    <Name Description="" Language="1040">Norma di default (ISO)</Name>
+    <Name Description="" Language="1041">Default Standard (ISO)</Name>
+    <Name Description="" Language="1042">기본 표준 (ISO)</Name>
+    <Name Description="" Language="1045">Norma domyślna (ISO)</Name>
+    <Name Description="" Language="1046">Norma padrão (ISO)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (ISO)</Name>
+    <Name Description="" Language="2052">默认标准 (ISO)</Name>
+    <Name Description="" Language="3082">Norma por defecto (ISO)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="3" InternalName="1:Default Standard (JIS) &#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="1" Type="3" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="2" ViewLabelDisplayNumParams-1="2" ViewLabelDisplayNumParams-2="2" ViewLabelDisplayNumParams-3="2" ViewLabelDisplayNumParams-4="2" ViewLabelDisplayNumParams-5="2" ViewLabelDisplayParam-0_Cat-0="5" ViewLabelDisplayParam-0_Cat-1="5" ViewLabelDisplayParam-0_ID-0="1" ViewLabelDisplayParam-0_ID-1="2" ViewLabelDisplayParam-0_Prec-0="3" ViewLabelDisplayParam-0_Prec-1="3" ViewLabelDisplayParam-1_Cat-0="5" ViewLabelDisplayParam-1_Cat-1="5" ViewLabelDisplayParam-1_ID-0="1" ViewLabelDisplayParam-1_ID-1="2" ViewLabelDisplayParam-1_Prec-0="3" ViewLabelDisplayParam-1_Prec-1="3" ViewLabelDisplayParam-2_Cat-0="5" ViewLabelDisplayParam-2_Cat-1="5" ViewLabelDisplayParam-2_ID-0="1" ViewLabelDisplayParam-2_ID-1="2" ViewLabelDisplayParam-2_Prec-0="3" ViewLabelDisplayParam-2_Prec-1="3" ViewLabelDisplayParam-3_Cat-0="5" ViewLabelDisplayParam-3_Cat-1="5" ViewLabelDisplayParam-3_ID-0="1" ViewLabelDisplayParam-3_ID-1="2" ViewLabelDisplayParam-3_Prec-0="3" ViewLabelDisplayParam-3_Prec-1="3" ViewLabelDisplayParam-4_Cat-0="5" ViewLabelDisplayParam-4_Cat-1="5" ViewLabelDisplayParam-4_ID-0="1" ViewLabelDisplayParam-4_ID-1="2" ViewLabelDisplayParam-4_Prec-0="3" ViewLabelDisplayParam-4_Prec-1="3" ViewLabelDisplayParam-5_Cat-0="5" ViewLabelDisplayParam-5_Cat-1="5" ViewLabelDisplayParam-5_ID-0="1" ViewLabelDisplayParam-5_ID-1="2" ViewLabelDisplayParam-5_Prec-0="3" ViewLabelDisplayParam-5_Prec-1="3" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="1" ViewLabelVisibility-3="1" ViewLabelVisibility-4="1" ViewLabelVisibility-5="0" ViewLabelJaggedSection="1" ViewLabelJaggedDetail="1">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (JIS)</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1041" String="ビュー"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1031" String="ANSICHT"/>
+      <Item Language="1038" String="NÉZET"/>
+      <Item Language="1029" String="POHLED"/>
+      <Item Language="1033" String="VIEW"/>
+      <Item Language="1040 1046 3082" String="VISTA"/>
+      <Item Language="1036" String="VUE"/>
+      <Item Language="1045" String="WIDOK"/>
+      <Item Language="1049" String="ВИД"/>
+      <Item Language="1041" String="ビュー"/>
+      <Item Language="1028" String="視圖"/>
+      <Item Language="2052" String="视图"/>
+      <Item Language="1042" String="뷰"/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2/>
+    <ViewLabelDisplay-3>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0;-\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3/>
+    <ViewLabelDisplay-4>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4/>
+    <ViewLabelDisplay-5>
+      <Item Language="1028 1029 1031 1033 1036 1038 1040 1041 1042 1045 1046 1049 2052 3082" String="\Y0; ( \Y1; )"/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1040" String="BOZZA"/>
+      <Item Language="1036" String="BROUILLON"/>
+      <Item Language="3082" String="DIBUJO"/>
+      <Item Language="1033" String="DRAFT"/>
+      <Item Language="1031" String="ENTWURF"/>
+      <Item Language="1029" String="NAČRTNUTÝ"/>
+      <Item Language="1046" String="RASCUNHO"/>
+      <Item Language="1045" String="SZKIC"/>
+      <Item Language="1038" String="VÁZLAT"/>
+      <Item Language="1049" String="ЧЕРНОВОЙ"/>
+      <Item Language="1041" String="ドラフト"/>
+      <Item Language="1028" String="拔模"/>
+      <Item Language="2052" String="草图"/>
+      <Item Language="1042" String="드래프트"/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.001"/>
+      <Item Val="0.018"/>
+      <Item Val="0.025"/>
+      <Item Val="0.035"/>
+      <Item Val="0.05"/>
+      <Item Val="0.07"/>
+      <Item Val="0.1"/>
+      <Item Val="0.14"/>
+      <Item Val="0.2"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.25"/>
+      <Item Val="0.35"/>
+      <Item Val="0.5"/>
+      <Item Val="0.7"/>
+      <Item Val="1"/>
+      <Item Val="1.4"/>
+      <Item Val="2"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Alternate (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Datum (ISO)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (JIS)</SubStyle>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">Large (ISO)</SubStyle>
+    </LeaderList>
+    <BalloonList>
+      <SubStyle Collection="Balloon" Language="1033" Type="Item">Balloon (JIS)</SubStyle>
+    </BalloonList>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (JIS)</SubStyle>
+    </SurfaceTextureList>
+    <WeldList>
+      <SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (JIS)</SubStyle>
+    </WeldList>
+    <WeldBeadList>
+      <SubStyle Collection="WeldBead" Language="1033" Type="Item">Weld Bead Recovery (JIS)</SubStyle>
+    </WeldBeadList>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (JIS)</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (JIS)</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList>
+      <SubStyle Collection="CenterMark" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+    </CenterMarkList>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (JIS)</SubStyle>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Feature ID (JIS)</SubStyle>
+    </IdList>
+    <HatchList>
+      <SubStyle Collection="Hatch" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+    </HatchList>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (JIS)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 1b (JIS)</SubStyle>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - Method 2 (JIS)</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Label Text (JIS)</SubStyle>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (JIS)</SubStyle>
+    </TextList>
+    <PartsListList>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (JIS)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Material List (JIS)</SubStyle>
+      <SubStyle Collection="PartsList" Language="1033" Type="Item">Parts List (JIS-AIP)</SubStyle>
+    </PartsListList>
+    <LayerList>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Bend Extent (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Break Line (JIS)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Center Mark (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Centerline (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Detail Boundary (JIS)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Dimension (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hatch (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Hidden Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Reference (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Section Line (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Symbol (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Tweak Trail (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Visible Narrow (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Axis (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Plane (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Work Point (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Border (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Title (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">3D Sketch Geometry (ISO)</SubStyle>
+      <SubStyle Collection="Layers" Language="1033" Type="Item">Overlay (ISO)</SubStyle>
+    </LayerList>
+    <HoleTableList>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Hole Table (JIS)</SubStyle>
+      <SubStyle Collection="HoleTable" Language="1033" Type="Item">Punch Table (JIS)</SubStyle>
+    </HoleTableList>
+    <TableList>
+      <SubStyle Collection="Table" Language="1033" Type="Item">Table (JIS)</SubStyle>
+    </TableList>
+    <RevisionTableList>
+      <SubStyle Collection="RevisionTable" Language="1033" Type="Item">Revision Table (JIS)</SubStyle>
+    </RevisionTableList>
+    <ViewAnnotationList>
+      <SubStyle Collection="ViewAnnotation" Language="1033" Type="Item">View Annotation (JIS)</SubStyle>
+    </ViewAnnotationList>
+    <ScaleList>
+      <Item Val="1 : 10000"/>
+      <Item Val="1 : 5000"/>
+      <Item Val="1 : 2000"/>
+      <Item Val="1 : 1000"/>
+      <Item Val="1 : 500"/>
+      <Item Val="1 : 200"/>
+      <Item Val="1 : 100"/>
+      <Item Val="1 : 50"/>
+      <Item Val="1 : 20"/>
+      <Item Val="1 : 10"/>
+      <Item Val="1 : 5"/>
+      <Item Val="1 : 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+      <Item Val="20 : 1"/>
+      <Item Val="50 : 1"/>
+      <Item Val="100 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="" Language="1028">預設標準 (JIS)</Name>
+    <Name Description="" Language="1029">Výchozí norma (JIS)</Name>
+    <Name Description="" Language="1031">Standardnorm (JIS)</Name>
+    <Name Description="" Language="1033">Default Standard (JIS)</Name>
+    <Name Description="" Language="1036">Norme par défaut (JIS)</Name>
+    <Name Description="" Language="1038">Alapértelmezett szabvány (JIS)</Name>
+    <Name Description="" Language="1040">Norma di default (JIS)</Name>
+    <Name Description="" Language="1041">Default Standard (JIS)</Name>
+    <Name Description="" Language="1042">기본 표준 (JIS)</Name>
+    <Name Description="" Language="1045">Norma domyślna (JIS)</Name>
+    <Name Description="" Language="1046">Norma padrão (JIS)</Name>
+    <Name Description="" Language="1049">Стандарт по умолчанию (JIS)</Name>
+    <Name Description="" Language="2052">默认标准 (JIS)</Name>
+    <Name Description="" Language="3082">Norma por defecto (JIS)</Name>
+  </Style>
+
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="0" InternalName="1:Default Standard (ANSI) - 3DA&#xA;" LinearUnit="3" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="0" ViewLabelDisplayNumParams-1="0" ViewLabelDisplayNumParams-2="0" ViewLabelDisplayNumParams-3="0" ViewLabelDisplayNumParams-4="0" ViewLabelDisplayNumParams-5="0" ViewLabelJaggedDetail="1" ViewLabelJaggedSection="0" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="0" ViewLabelVisibility-4="0" ViewLabelVisibility-5="0">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ANSI) - 3DA</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.03556"/>
+      <Item Val="0.0508"/>
+      <Item Val="0.07112"/>
+      <Item Val="0.09906"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.20066"/>
+      <Item Val="0.2794"/>
+      <Item Val="0.39878"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI) - 3DA</SubStyle>
+    </LeaderList>
+    <BalloonList/>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI) - 3DA</SubStyle>
+    </SurfaceTextureList>
+		<WeldList>
+			<SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI) - 3DA</SubStyle>
+		</WeldList>
+    <WeldBeadList/>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI) - 3DA</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI) - 3DA</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList/>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI) - 3DA</SubStyle>
+    </IdList>
+    <HatchList/>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ANSI) - 3DA</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI) - 3DA</SubStyle>
+			<SubStyle Collection="Text" Language="1033" Type="Item">Sketch Text (ANSI) - 3DA</SubStyle>
+    </TextList>
+    <PartsListList/>
+    <LayerList/>
+    <HoleTableList/>
+    <TableList/>
+    <RevisionTableList/>
+    <ViewAnnotationList/>
+    <ScaleList>
+      <Item Val="1 / 4"/>
+      <Item Val="1 / 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">預設標準 (ANSI) - 3DA</Name>
+    <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí norma (ANSI) - 3DA</Name>
+    <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Standardnorm (ANSI) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1033">Default Standard (ANSI) - 3DA</Name>
+    <Name Description="Ce style est destiné à être utilisé dans l'environnement de modélisation uniquement pour mettre en forme les annotations 3D. Modifiez ce style à vos risques et périls, car certains paramètres n'ont pas encore été testés pour déterminer l'impact sur les annotations 3D." Language="1036">Norme par défaut (ANSI) - 3DA</Name>
+    <Name Description="Ez a stílus a modellezési környezetben kizárólag a 3D megjegyzés formázására szolgál. A stílust saját felelősségére módosíthatja, mivel nem minden beállítás lett tesztelve a 3D megjegyzésre gyakorolt hatás meghatározásához" Language="1038">Alapértelmezett szabvány (ANSI) - 3DA</Name>
+    <Name Description="Questo stile viene utilizzato nell'ambiente di modellazione solo per formattare un'annotazione 3D. Modificare questo stile a proprio rischio perché non tutte le impostazioni sono state testate per determinare un effetto sull'annotazione 3D." Language="1040">Norma di default (ANSI) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1041">Default Standard (ANSI) - 3DA</Name>
+    <Name Description="이 스타일은 모델링 환경에서 3D 주석의 형식을 지정하는 데에만 사용됩니다. 3D 주석에 대한 효과를 확인하는 테스트가 수행되지 않은 설정도 있으므로 이 스타일을 수정할 때 발생하는 위험은 사용자가 감수해야 합니다." Language="1042">기본 표준 (ANSI) - 3DA</Name>
+    <Name Description="Ten styl jest przeznaczony do użycia w środowisku modelowania tylko do formatowania opisu 3D. Modyfikowanie tego stylu jest przeprowadzane na własne ryzyko, ponieważ nie wszystkie ustawienia zostały przetestowane w celu określenia wpływu na opis 3D" Language="1045">Norma domyślna (ANSI) - 3DA</Name>
+    <Name Description="Este estilo foi criado para ser usado no ambiente de modelagem somente para formatar anotações 3D. Se você modificar o estilo, será por sua própria conta e risco, pois nem todas as configurações foram testadas para determinar o efeito na anotação 3D" Language="1046">Norma padrão (ANSI) - 3DA</Name>
+    <Name Description="Этот стиль предназначен только для форматирования 3D-аннотаций в среде моделирования. Внося изменения в этот стиль, вы принимаете на себя все возможные риски ввиду того, что воздействие некоторых параметров на 3D-аннотации не было определено в ходе тестирования." Language="1049">Стандарт по умолчанию (ANSI) - 3DA</Name>
+    <Name Description="此样式仅供在建模环境中使用，以设定三维标注的格式。修改此样式您需自担风险，因为并非所有设置均已经过测试，其对三维标注的影响尚不可知" Language="2052">默认标准 (ANSI) - 3DA</Name>
+    <Name Description="Este estilo está diseñado para uso exclusivo en el entorno de modelado para dar formato a anotaciones 3D. La modificación de este estilo será bajo su propia responsabilidad, ya que no se han probado todos los parámetros para determinar el efecto que tienen en la anotación 3D." Language="3082">Norma por defecto (ANSI) - 3DA</Name>
+  </Style>
+  
+  <Style CircularThreadEdge="1" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="0" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="0" InternalName="1:Default Standard (ANSI-mm) - 3DA&#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="0" Type="0" ViewLabelDefaultPosition-0="1" ViewLabelDefaultPosition-1="1" ViewLabelDefaultPosition-2="1" ViewLabelDefaultPosition-3="1" ViewLabelDefaultPosition-4="1" ViewLabelDefaultPosition-5="1" ViewLabelDisplayNumParams-0="0" ViewLabelDisplayNumParams-1="0" ViewLabelDisplayNumParams-2="0" ViewLabelDisplayNumParams-3="0" ViewLabelDisplayNumParams-4="0" ViewLabelDisplayNumParams-5="0" ViewLabelJaggedDetail="1" ViewLabelJaggedSection="0" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="0" ViewLabelVisibility-4="0" ViewLabelVisibility-5="0">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ANSI-mm) - 3DA</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.03556"/>
+      <Item Val="0.0508"/>
+      <Item Val="0.07112"/>
+      <Item Val="0.09906"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.20066"/>
+      <Item Val="0.2794"/>
+      <Item Val="0.39878"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ANSI) - 3DA</SubStyle>
+    </LeaderList>
+    <BalloonList/>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ANSI) - 3DA</SubStyle>
+    </SurfaceTextureList>
+		<WeldList>
+			<SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ANSI) - 3DA</SubStyle>
+		</WeldList>
+    <WeldBeadList/>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ANSI) - 3DA</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ANSI) - 3DA</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList/>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ANSI) - 3DA</SubStyle>
+    </IdList>
+    <HatchList/>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default - mm (ANSI) - 3DA</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ANSI) - 3DA</SubStyle>
+			<SubStyle Collection="Text" Language="1033" Type="Item">Sketch Text (ANSI) - 3DA</SubStyle>
+	  </TextList>
+    <PartsListList/>
+    <LayerList/>
+    <HoleTableList/>
+    <TableList/>
+    <RevisionTableList/>
+    <ViewAnnotationList/>
+    <ScaleList>
+      <Item Val="1 / 4"/>
+      <Item Val="1 / 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">預設標準 (ANSI-mm) - 3DA</Name>
+    <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí norma (ANSI-mm) - 3DA</Name>
+    <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Standardnorm (ANSI-mm) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1033">Default Standard (ANSI-mm) - 3DA</Name>
+    <Name Description="Ce style est destiné à être utilisé dans l'environnement de modélisation uniquement pour mettre en forme les annotations 3D. Modifiez ce style à vos risques et périls, car certains paramètres n'ont pas encore été testés pour déterminer l'impact sur les annotations 3D." Language="1036">Norme par défaut (ANSI-mm) - 3DA</Name>
+    <Name Description="Ez a stílus a modellezési környezetben kizárólag a 3D megjegyzés formázására szolgál. A stílust saját felelősségére módosíthatja, mivel nem minden beállítás lett tesztelve a 3D megjegyzésre gyakorolt hatás meghatározásához" Language="1038">Alapértelmezett szabvány (ANSI-mm) - 3DA</Name>
+    <Name Description="Questo stile viene utilizzato nell'ambiente di modellazione solo per formattare un'annotazione 3D. Modificare questo stile a proprio rischio perché non tutte le impostazioni sono state testate per determinare un effetto sull'annotazione 3D." Language="1040">Norma di default (ANSI-mm) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1041">Default Standard (ANSI-mm) - 3DA</Name>
+    <Name Description="이 스타일은 모델링 환경에서 3D 주석의 형식을 지정하는 데에만 사용됩니다. 3D 주석에 대한 효과를 확인하는 테스트가 수행되지 않은 설정도 있으므로 이 스타일을 수정할 때 발생하는 위험은 사용자가 감수해야 합니다." Language="1042">기본 표준 (ANSI-mm) - 3DA</Name>
+    <Name Description="Ten styl jest przeznaczony do użycia w środowisku modelowania tylko do formatowania opisu 3D. Modyfikowanie tego stylu jest przeprowadzane na własne ryzyko, ponieważ nie wszystkie ustawienia zostały przetestowane w celu określenia wpływu na opis 3D" Language="1045">Norma domyślna (ANSI-mm) - 3DA</Name>
+    <Name Description="Este estilo foi criado para ser usado no ambiente de modelagem somente para formatar anotações 3D. Se você modificar o estilo, será por sua própria conta e risco, pois nem todas as configurações foram testadas para determinar o efeito na anotação 3D" Language="1046">Norma padrão (ANSI-mm) - 3DA</Name>
+    <Name Description="Этот стиль предназначен только для форматирования 3D-аннотаций в среде моделирования. Внося изменения в этот стиль, вы принимаете на себя все возможные риски ввиду того, что воздействие некоторых параметров на 3D-аннотации не было определено в ходе тестирования." Language="1049">Стандарт по умолчанию (ANSI-мм) - 3DA</Name>
+    <Name Description="此样式仅供在建模环境中使用，以设定三维标注的格式。修改此样式您需自担风险，因为并非所有设置均已经过测试，其对三维标注的影响尚不可知" Language="2052">默认标准 (ANSI-mm) - 3DA</Name>
+    <Name Description="Este estilo está diseñado para uso exclusivo en el entorno de modelado para dar formato a anotaciones 3D. La modificación de este estilo será bajo su propia responsabilidad, ya que no se han probado todos los parámetros para determinar el efecto que tienen en la anotación 3D." Language="3082">Norma por defecto (ANSI-mm) - 3DA</Name>
+  </Style>
+  
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="0" InternalName="1:Default Standard (DIN) - 3DA&#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="1" Type="2" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="0" ViewLabelDisplayNumParams-1="0" ViewLabelDisplayNumParams-2="0" ViewLabelDisplayNumParams-3="0" ViewLabelDisplayNumParams-4="0" ViewLabelDisplayNumParams-5="0" ViewLabelJaggedDetail="1" ViewLabelJaggedSection="0" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="0" ViewLabelVisibility-4="0" ViewLabelVisibility-5="0">
+    <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (DIN) - 3DA</SubStyle>
+    <ViewLabelDisplay-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-0>
+    <ViewLabelPrefix-0>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-0>
+    <ViewLabelDisplay-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-1>
+    <ViewLabelPrefix-1>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-1>
+    <ViewLabelDisplay-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-2>
+    <ViewLabelPrefix-2>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-2>
+    <ViewLabelDisplay-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-3>
+    <ViewLabelPrefix-3>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-3>
+    <ViewLabelDisplay-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-4>
+    <ViewLabelPrefix-4>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-4>
+    <ViewLabelDisplay-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelDisplay-5>
+    <ViewLabelPrefix-5>
+      <Item Language="1033" String=""/>
+    </ViewLabelPrefix-5>
+    <LineWeightList>
+      <Item Val="0.01778"/>
+      <Item Val="0.0254"/>
+      <Item Val="0.03556"/>
+      <Item Val="0.0508"/>
+      <Item Val="0.07112"/>
+      <Item Val="0.09906"/>
+      <Item Val="0.1397"/>
+      <Item Val="0.20066"/>
+      <Item Val="0.2794"/>
+      <Item Val="0.39878"/>
+    </LineWeightList>
+    <TextHeightList>
+      <Item Val="0.254"/>
+      <Item Val="0.3048"/>
+      <Item Val="0.3175"/>
+      <Item Val="0.6096"/>
+    </TextHeightList>
+    <SectionHatchAngleList>
+      <Item Val="0"/>
+      <Item Val="1.5708"/>
+      <Item Val="0.261799"/>
+      <Item Val="1.309"/>
+      <Item Val="-0.261799"/>
+      <Item Val="1.8326"/>
+    </SectionHatchAngleList>
+    <LeaderList>
+      <SubStyle Collection="Leader" Language="1033" Type="Item">General (ISO) - 3DA</SubStyle>
+    </LeaderList>
+    <BalloonList/>
+    <SurfaceTextureList>
+      <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (DIN) - 3DA</SubStyle>
+    </SurfaceTextureList>
+		<WeldList>
+			<SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (DIN) - 3DA</SubStyle>
+		</WeldList>
+    <WeldBeadList/>
+    <FeatureControlFrameList>
+      <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (DIN) - 3DA</SubStyle>
+    </FeatureControlFrameList>
+    <DatumTargetList>
+      <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (DIN) - 3DA</SubStyle>
+    </DatumTargetList>
+    <CenterMarkList/>
+    <IdList>
+      <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (DIN) - 3DA</SubStyle>
+    </IdList>
+    <HatchList/>
+    <DimensionList>
+      <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (DIN) - 3DA</SubStyle>
+    </DimensionList>
+    <TextList>
+      <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (DIN) - 3DA</SubStyle>
+			<SubStyle Collection="Text" Language="1033" Type="Item">Sketch Text (ISO) - 3DA</SubStyle>
+    </TextList>
+    <PartsListList/>
+    <LayerList/>
+    <HoleTableList/>
+    <TableList/>
+    <RevisionTableList/>
+    <ViewAnnotationList/>
+    <ScaleList>
+      <Item Val="1 / 4"/>
+      <Item Val="1 / 2"/>
+      <Item Val="1 : 1"/>
+      <Item Val="2 : 1"/>
+      <Item Val="3 : 1"/>
+      <Item Val="4 : 1"/>
+      <Item Val="5 : 1"/>
+      <Item Val="10 : 1"/>
+    </ScaleList>
+    <HatchMaterialMap/>
+    <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">預設標準 (DIN) - 3DA</Name>
+    <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí norma (DIN) - 3DA</Name>
+    <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Standardnorm (DIN) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1033">Default Standard (DIN) - 3DA</Name>
+    <Name Description="Ce style est destiné à être utilisé dans l'environnement de modélisation uniquement pour mettre en forme les annotations 3D. Modifiez ce style à vos risques et périls, car certains paramètres n'ont pas encore été testés pour déterminer l'impact sur les annotations 3D." Language="1036">Norme par défaut (DIN) - 3DA</Name>
+    <Name Description="Ez a stílus a modellezési környezetben kizárólag a 3D megjegyzés formázására szolgál. A stílust saját felelősségére módosíthatja, mivel nem minden beállítás lett tesztelve a 3D megjegyzésre gyakorolt hatás meghatározásához" Language="1038">Alapértelmezett szabvány (DIN) - 3DA</Name>
+    <Name Description="Questo stile viene utilizzato nell'ambiente di modellazione solo per formattare un'annotazione 3D. Modificare questo stile a proprio rischio perché non tutte le impostazioni sono state testate per determinare un effetto sull'annotazione 3D." Language="1040">Norma di default (DIN) - 3DA</Name>
+    <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1041">Default Standard (DIN) - 3DA</Name>
+    <Name Description="이 스타일은 모델링 환경에서 3D 주석의 형식을 지정하는 데에만 사용됩니다. 3D 주석에 대한 효과를 확인하는 테스트가 수행되지 않은 설정도 있으므로 이 스타일을 수정할 때 발생하는 위험은 사용자가 감수해야 합니다." Language="1042">기본 표준 (DIN) - 3DA</Name>
+    <Name Description="Ten styl jest przeznaczony do użycia w środowisku modelowania tylko do formatowania opisu 3D. Modyfikowanie tego stylu jest przeprowadzane na własne ryzyko, ponieważ nie wszystkie ustawienia zostały przetestowane w celu określenia wpływu na opis 3D" Language="1045">Norma domyślna (DIN) - 3DA</Name>
+    <Name Description="Este estilo foi criado para ser usado no ambiente de modelagem somente para formatar anotações 3D. Se você modificar o estilo, será por sua própria conta e risco, pois nem todas as configurações foram testadas para determinar o efeito na anotação 3D" Language="1046">Norma padrão (DIN) - 3DA</Name>
+    <Name Description="Этот стиль предназначен только для форматирования 3D-аннотаций в среде моделирования. Внося изменения в этот стиль, вы принимаете на себя все возможные риски ввиду того, что воздействие некоторых параметров на 3D-аннотации не было определено в ходе тестирования." Language="1049">Стандарт по умолчанию (DIN) - 3DA</Name>
+    <Name Description="此样式仅供在建模环境中使用，以设定三维标注的格式。修改此样式您需自担风险，因为并非所有设置均已经过测试，其对三维标注的影响尚不可知" Language="2052">默认标准 (DIN) - 3DA</Name>
+    <Name Description="Este estilo está diseñado para uso exclusivo en el entorno de modelado para dar formato a anotaciones 3D. La modificación de este estilo será bajo su propia responsabilidad, ya que no se han probado todos los parámetros para determinar el efecto que tienen en la anotación 3D." Language="3082">Norma por defecto (DIN) - 3DA</Name>
+  </Style>
+  
+  <Style CircularThreadEdge="0" ConstrainViewLabel-0="0" ConstrainViewLabel-1="0" ConstrainViewLabel-2="0" ConstrainViewLabel-3="0" ConstrainViewLabel-4="0" ConstrainViewLabel-5="0" DecimalMarker="1" EditFlag="0" ExcludeCharacterApplyTo="5" ExcludeCharacterSet="IOQSXZ" FrontViewPlane="0" InternalName="1:Default Standard (ISO) - 3DA&#xA;" LinearUnit="0" Projection="0" Scale="1" ThreadEdge="1" Type="1" ViewLabelDefaultPosition-0="0" ViewLabelDefaultPosition-1="0" ViewLabelDefaultPosition-2="0" ViewLabelDefaultPosition-3="0" ViewLabelDefaultPosition-4="0" ViewLabelDefaultPosition-5="0" ViewLabelDisplayNumParams-0="0" ViewLabelDisplayNumParams-1="0" ViewLabelDisplayNumParams-2="0" ViewLabelDisplayNumParams-3="0" ViewLabelDisplayNumParams-4="0" ViewLabelDisplayNumParams-5="0" ViewLabelJaggedDetail="1" ViewLabelJaggedSection="0" ViewLabelVisibility-0="0" ViewLabelVisibility-1="0" ViewLabelVisibility-2="0" ViewLabelVisibility-3="0" ViewLabelVisibility-4="0" ViewLabelVisibility-5="0">
+      <SubStyle Collection="ObjectDefaults" Language="1033" Type="ObjectDefaults">Object Defaults (ISO) - 3DA</SubStyle>
+      <ViewLabelDisplay-0>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-0>
+      <ViewLabelPrefix-0>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-0>
+      <ViewLabelDisplay-1>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-1>
+      <ViewLabelPrefix-1>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-1>
+      <ViewLabelDisplay-2>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-2>
+      <ViewLabelPrefix-2>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-2>
+      <ViewLabelDisplay-3>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-3>
+      <ViewLabelPrefix-3>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-3>
+      <ViewLabelDisplay-4>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-4>
+      <ViewLabelPrefix-4>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-4>
+      <ViewLabelDisplay-5>
+        <Item Language="1033" String=""/>
+      </ViewLabelDisplay-5>
+      <ViewLabelPrefix-5>
+        <Item Language="1033" String=""/>
+      </ViewLabelPrefix-5>
+      <LineWeightList>
+        <Item Val="0.01778"/>
+        <Item Val="0.0254"/>
+        <Item Val="0.03556"/>
+        <Item Val="0.0508"/>
+        <Item Val="0.07112"/>
+        <Item Val="0.09906"/>
+        <Item Val="0.1397"/>
+        <Item Val="0.20066"/>
+        <Item Val="0.2794"/>
+        <Item Val="0.39878"/>
+      </LineWeightList>
+      <TextHeightList>
+        <Item Val="0.254"/>
+        <Item Val="0.3048"/>
+        <Item Val="0.3175"/>
+        <Item Val="0.6096"/>
+      </TextHeightList>
+      <SectionHatchAngleList>
+        <Item Val="0"/>
+        <Item Val="1.5708"/>
+        <Item Val="0.261799"/>
+        <Item Val="1.309"/>
+        <Item Val="-0.261799"/>
+        <Item Val="1.8326"/>
+      </SectionHatchAngleList>
+      <LeaderList>
+        <SubStyle Collection="Leader" Language="1033" Type="Item">General (ISO) - 3DA</SubStyle>
+      </LeaderList>
+      <BalloonList/>
+      <SurfaceTextureList>
+        <SubStyle Collection="SurfaceTexture" Language="1033" Type="Item">Surface Texture (ISO) - 3DA</SubStyle>
+      </SurfaceTextureList>
+			<WeldList>
+				<SubStyle Collection="Weld" Language="1033" Type="Item">Weld Symbol (ISO) - 3DA</SubStyle>
+			</WeldList>
+      <WeldBeadList/>
+      <FeatureControlFrameList>
+        <SubStyle Collection="FeatureControlFrame" Language="1033" Type="Item">Feature Control Frame (ISO) - 3DA</SubStyle>
+      </FeatureControlFrameList>
+      <DatumTargetList>
+        <SubStyle Collection="DatumTarget" Language="1033" Type="Item">Datum Target (ISO) - 3DA</SubStyle>
+      </DatumTargetList>
+      <CenterMarkList/>
+      <IdList>
+        <SubStyle Collection="Id" Language="1033" Type="Item">Datum ID (ISO) - 3DA</SubStyle>
+      </IdList>
+      <HatchList/>
+      <DimensionList>
+        <SubStyle Collection="Dimension" Language="1033" Type="Item">Default (ISO) - 3DA</SubStyle>
+      </DimensionList>
+      <TextList>
+        <SubStyle Collection="Text" Language="1033" Type="Item">Note Text (ISO) - 3DA</SubStyle>
+				<SubStyle Collection="Text" Language="1033" Type="Item">Sketch Text (ISO) - 3DA</SubStyle>
+      </TextList>
+      <PartsListList/>
+      <LayerList/>
+      <HoleTableList/>
+      <TableList/>
+      <RevisionTableList/>
+      <ViewAnnotationList/>
+      <ScaleList>
+        <Item Val="1 / 4"/>
+        <Item Val="1 / 2"/>
+        <Item Val="1 : 1"/>
+        <Item Val="2 : 1"/>
+        <Item Val="3 : 1"/>
+        <Item Val="4 : 1"/>
+        <Item Val="5 : 1"/>
+        <Item Val="10 : 1"/>
+      </ScaleList>
+      <HatchMaterialMap/>
+      <Name Description="此型式僅供在塑型環境中使用，以設定 3D 註解的格式。修改此型式您需自擔風險，因為並非所有設定都已經過測試，其對 3D 註解的影響尚不可知" Language="1028">預設標準 (ISO) - 3DA</Name>
+	  <Name Description="Tento styl je určen k použití v prostředí modelování pouze za účelem formátování 3D poznámky.  Styl lze upravit jen na vlastní nebezpečí, protože nebyla otestována všechna nastavení a jejich vliv na 3D poznámku." Language="1029">Výchozí norma (ISO) - 3DA</Name>
+	  <Name Description="Dieser Stil wird in der Konstruktionsumgebung nur zum Formatieren von 3D-Anmerkungen verwendet. Eine Änderung dieses Stils erfolgt auf eigenes Risiko, da die Auswirkungen auf 3D-Anmerkungen nicht für alle Einstellungen geprüft wurden" Language="1031">Standardnorm (ISO) - 3DA</Name>
+	  <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1033">Default Standard (ISO) - 3DA</Name>
+	  <Name Description="Ce style est destiné à être utilisé dans l'environnement de modélisation uniquement pour mettre en forme les annotations 3D. Modifiez ce style à vos risques et périls, car certains paramètres n'ont pas encore été testés pour déterminer l'impact sur les annotations 3D." Language="1036">Norme par défaut (ISO) - 3DA</Name>
+	  <Name Description="Ez a stílus a modellezési környezetben kizárólag a 3D megjegyzés formázására szolgál. A stílust saját felelősségére módosíthatja, mivel nem minden beállítás lett tesztelve a 3D megjegyzésre gyakorolt hatás meghatározásához" Language="1038">Alapértelmezett szabvány (ISO) - 3DA</Name>
+	  <Name Description="Questo stile viene utilizzato nell'ambiente di modellazione solo per formattare un'annotazione 3D. Modificare questo stile a proprio rischio perché non tutte le impostazioni sono state testate per determinare un effetto sull'annotazione 3D." Language="1040">Norma di default (ISO) - 3DA</Name>
+	  <Name Description="This style is intended for use in the modeling environment only to format 3D annotation.  Modify this style at your own risk as not all  settings have been tested to determine effect to 3D annotation" Language="1041">Default Standard (ISO) - 3DA</Name>
+	  <Name Description="이 스타일은 모델링 환경에서 3D 주석의 형식을 지정하는 데에만 사용됩니다. 3D 주석에 대한 효과를 확인하는 테스트가 수행되지 않은 설정도 있으므로 이 스타일을 수정할 때 발생하는 위험은 사용자가 감수해야 합니다." Language="1042">기본 표준 (ISO) - 3DA</Name>
+	  <Name Description="Ten styl jest przeznaczony do użycia w środowisku modelowania tylko do formatowania opisu 3D. Modyfikowanie tego stylu jest przeprowadzane na własne ryzyko, ponieważ nie wszystkie ustawienia zostały przetestowane w celu określenia wpływu na opis 3D" Language="1045">Norma domyślna (ISO) - 3DA</Name>
+	  <Name Description="Este estilo foi criado para ser usado no ambiente de modelagem somente para formatar anotações 3D. Se você modificar o estilo, será por sua própria conta e risco, pois nem todas as configurações foram testadas para determinar o efeito na anotação 3D" Language="1046">Norma padrão (ISO) - 3DA</Name>
+	  <Name Description="Этот стиль предназначен только для форматирования 3D-аннотаций в среде моделирования. Внося изменения в этот стиль, вы принимаете на себя все возможные риски ввиду того, что воздействие некоторых параметров на 3D-аннотации не было определено в ходе тестирования." Language="1049">Стандарт по умолчанию (ISO) - 3DA</Name>
+	  <Name Description="此样式仅供在建模环境中使用，以设定三维标注的格式。修改此样式您需自担风险，因为并非所有设置均已经过测试，其对三维标注的影响尚不可知" Language="2052">默认标准 (ISO) - 3DA</Name>
+	  <Name Description="Este estilo está diseñado para uso exclusivo en el entorno de modelado para dar formato a anotaciones 3D. La modificación de este estilo será bajo su propia responsabilidad, ya que no se han probado todos los parámetros para determinar el efecto que tienen en la anotación 3D." Language="3082">Norma por defecto (ISO) - 3DA</Name>
+    </Style>
+  
+</Standard>

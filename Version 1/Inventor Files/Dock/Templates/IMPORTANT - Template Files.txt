@@ -1,0 +1,15 @@
+IMPORTANT INFORMATION FOR THOSE USING MULTIPLE LANGUAGE PACKS
+
+Applies to:
+ - Anyone installing multiple language packs and keeping the default template installation location (C:\Users\Public\Documents\Autodesk\Inventor release year\Templates).
+ - Anyone storing and using custom templates in the C:\Users\Public\Documents\Autodesk\Inventor release year\Templates folder.
+
+Inventor has supported language packs for many releases. This allowed you to install multiple languages onto
+a single Inventor installation and switch between them via the Start Menu shortcut (which uses a /language parameter).  
+
+Although the language packs would install localized template files, launching different languages of Inventor wouldn't 
+actually change which templates were used by default. 
+
+With Inventor 2020 all language packs are installed and handled the same. There is no longer a need to copy the templates to the
+parent folder because the template file path is updated when you change languages. This simplifies use and maintenance of templates,
+whether default or custom. 
