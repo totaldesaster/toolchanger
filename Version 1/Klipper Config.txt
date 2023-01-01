@@ -1,0 +1,142 @@
+# Example configuration entries for tool changer
+
+
+
+[extruder]
+# Configure like a normal multi-extruder Klipper setup
+
+[extruder1]
+# Configure like a normal multi-extruder Klipper setup
+
+# Don't add any entries for "non extruder" tools like a pen
+# Haven't figured out how to add things like lasers yet...
+
+
+
+# example manual stepper for the toolhead
+[manual_stepper toolhead]
+step_pin: PE2
+dir_pin: PE3
+enable_pin: !PD4
+microsteps: 16
+rotation_distance: 5.625
+full_steps_per_rotation: 200
+velocity: 5
+accel: 1000
+
+# example manual stepper TMC driver (name must be the same as the stepper it's assigned to)
+[tmc2209 manual_stepper toolhead]
+uart_pin: PE1
+interpolate: True
+run_current: 0.2
+hold_current: 0.2
+stealthchop_threshold: 0
+
+
+
+[gcode_macro TOOLCHANGE]
+description: execute the tool change, positions have to be adjusted for your machine!
+variable_current_tool: 0
+variable_next_tool: 0
+gcode:
+	# Reset all the offsets for parking
+    SET_GCODE_OFFSET Z=0
+    SET_GCODE_OFFSET Y=0
+    SET_GCODE_OFFSET X=0
+	
+    # Evaluate what tool is currently on the head
+    {% set old_tool = printer["gcode_macro TOOLCHANGE"].current_tool|default(0)|int %}
+	
+    # Evaluate next tool to pick up
+    {% if 'TOOL' in params %}
+        {% set new_tool = params.TOOL|default(0)|int %}
+        SET_GCODE_VARIABLE MACRO=TOOLCHANGE VARIABLE=current_tool VALUE={params.TOOL}
+    {% endif %}
+	
+    # Check for needless tool change (new tool = old tool)
+    {% if old_tool == new_tool %}
+        {action_respond_info("Requested tool is already mounted, not doing tool change!")}
+    {% else %}
+	
+        # Move to the pre-park position depending on what tool is mounted
+		# ADJUST THE POSITIONS HERE, straight ahead of the parking position, with clearance to pass other tools when moving sideways
+        {% if old_tool == 0 %}
+            G1 Y189 X5 F10000
+        {% elif old_tool == 1 %}
+            G1 Y97.2 X5 F10000
+        {% elif old_tool == 2 %}
+            G1 Y20 X5 F10000
+        {% endif %}
+		
+        # Park the tool
+		# ADJUST THE POSITIONS HERE, a few mm ahead of hitting the wall of the dock
+        G1 X-21 F1500
+        MANUAL_STEPPER STEPPER=toolhead ENABLE=1
+        MANUAL_STEPPER STEPPER=toolhead MOVE=8 SPEED=15
+		# ADJUST THE POSITIONS HERE, same as the X position in the pre-park position above
+        G1 X5 F5000
+        MANUAL_STEPPER STEPPER=toolhead ENABLE=0
+		
+        # Move to the pre-pick position depending on what tool is requested, synchronize new extruder to motion queue 
+		# ADJUST THE POSITIONS HERE, straight ahead of the parking position
+        {% if new_tool == 0 %}
+            G1 Y189
+            ACTIVATE_EXTRUDER EXTRUDER=extruder
+        {% elif new_tool == 1 %}
+            G1 Y97.7
+            ACTIVATE_EXTRUDER EXTRUDER=extruder1
+        {% elif new_tool == 2 %}
+            G1 Y20
+            # Example non-extruder tool - add any servos etc here as necessary
+        {% endif %}
+		
+        # Pick the tool
+        MANUAL_STEPPER STEPPER=toolhead ENABLE=1
+		# ADJUST THE POSITIONS HERE, just before hitting the tool dock wall
+        G1 X-23 F1500
+        G1 X-24 F500
+        MANUAL_STEPPER STEPPER=toolhead MOVE=0 SPEED=15
+        MANUAL_STEPPER STEPPER=toolhead ENABLE=0
+        G1 X10 F5000
+    {% endif %}
+	
+    # Apply offsets
+	# ADJUST THE POSITIONS HERE, offsets to make sure the nozzles are aligned to each other
+    {% if new_tool == 0 %}
+        SET_GCODE_OFFSET Z=1.1
+        SET_GCODE_OFFSET Y=0
+        SET_GCODE_OFFSET X=15
+    {% elif new_tool == 1 %}
+        SET_GCODE_OFFSET Z=0.75
+        SET_GCODE_OFFSET Y=0.3
+        SET_GCODE_OFFSET X=14.8
+    {% elif new_tool == 2 %}
+        SET_GCODE_OFFSET Z=0
+        SET_GCODE_OFFSET Y=0
+        SET_GCODE_OFFSET X=0
+    {% endif %}
+    
+	
+	
+[gcode_macro T0]
+description: CNC-Style Alias for TOOLCHANGE macro
+gcode:
+    TOOLCHANGE TOOL=0
+
+[gcode_macro T1]
+description: CNC-Style Alias for TOOLCHANGE macro
+gcode:
+    TOOLCHANGE TOOL=1
+
+[gcode_macro T2]
+description: CNC-Style Alias for TOOLCHANGE macro
+gcode:
+    TOOLCHANGE TOOL=2
+    
+    	
+	
+[delayed_gcode activate_default_extruder]
+# activate the default extruder at startup, assume tool 0 is mounted
+initial_duration: 1
+gcode:
+    T0

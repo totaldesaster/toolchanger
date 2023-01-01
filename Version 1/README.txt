@@ -1,4 +1,4 @@
-Below are the parts I used. See the assembly drawings for details.
+Below are the parts I used. See the assembly drawings for details. The included Klipper config is meant to serve as an example how to configure your machine and is not complete!
 
 Toolhead:
 Coupler Ball		https://de.aliexpress.com/item/32646556334.html?spm=a2g0o.order_list.0.0.21ef5c5fhdG5Fl&gatewayAdapt=glo2deu
@@ -14,4 +14,4 @@ L profile		Doesn't matter too much - random bits I had laying around...
 Printed parts:
 I'd recommend printing all mechanical parts with at least 4 walls and 25% Infill. I used Extrudr PLA NX2 for mine, any decent quality filament should work.
 
-If you designed heads or dock bases for your printer, feel free to share them!
+You can use the Tool_Template files under Inventor Files / STEP Files to base your own tools on. If you designed heads or dock bases for your printer, please, feel free to share them!
